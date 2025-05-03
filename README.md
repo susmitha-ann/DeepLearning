@@ -1,5 +1,5 @@
-This file 3 parts of this project:
-1. Summarizes all the steps to follow to replicate and use the project.
+You are are reading the README file which has 3 parts :
+1. Summarizes all the steps to follow to replicate and use this project.
 2. Highlight the .pynb notebook that has all the steps involved in this project
 3. Some highlight of insights and reasoning behind this approach of the project
 
