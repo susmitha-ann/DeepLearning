@@ -16,3 +16,4 @@ dff=pd.concat(dfs)
 
 df=dff
 
+df.to_csv('../output_data/data_for_read.csv', index=False)
